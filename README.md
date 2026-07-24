@@ -1,6 +1,6 @@
 # Dynamics 365 Template Compare & Transfer
 
-![Tool icon](Assets/DocumentsTemplateMoverIcon80.png)
+![Tool icon](https://raw.githubusercontent.com/Lucarian77/Dynamics365TemplateCompareTransfer/main/Assets/DocumentsTemplateMoverIcon80.png)
 
 An XrmToolBox tool for comparing and safely transferring Microsoft Word and Excel document templates between Microsoft Dataverse environments.
 
