@@ -7,7 +7,8 @@
     <authors>Adrian Lucaci</authors>
     <owners>Adrian Lucaci</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <license type="file">LICENSE</license>
+    <license type="expression">MIT</license>
+	<readme>README.md</readme>
     <icon>Assets\DocumentsTemplateMoverIcon80.png</icon>
     <iconUrl>https://raw.githubusercontent.com/Lucarian77/Dynamics365TemplateCompareTransfer/main/Assets/DocumentsTemplateMoverIcon80.png</iconUrl>
     <projectUrl>https://github.com/Lucarian77/Dynamics365TemplateCompareTransfer</projectUrl>
@@ -26,7 +27,8 @@
   <files>
     <file src="bin\Release\Dynamics365TemplateCompareTransfer.dll" target="lib\net48\Plugins" />
     <file src="Assets\DocumentsTemplateMoverIcon80.png" target="Assets" />
-    <file src="LICENSE" target="" />
+    <file src="LICENSE" target="LICENSE" />
+	<file src="README.md" target="README.md" />
   </files>
 </package>
 
